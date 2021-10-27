@@ -113,3 +113,11 @@ int main() {
 
 	return 0;
 }
+
+/*
+    벽을 모든 경우 수로 세우기
+    brute force
+    recursive
+    bfs virus가 퍼지는걸 simulation
+    res
+*/
